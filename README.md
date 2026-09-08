@@ -1,6 +1,6 @@
-# HIVE-Logistics-Internal-Transportation-Delivery-Coordination-System
+# Logistics-Internal-Transportation-Delivery-Coordination-System
 A BA case study to improve delivery scheduling at HIVE Logistics. I mapped workflows using BPMN/DFD, defined Use Cases and system requirements, and built a simple C#/SQL demo to test the design.
-# HIVE Logistics - Internal Transportation & Delivery Coordination System
+# Logistics - Internal Transportation & Delivery Coordination System
 
 ![Academic Project](https://img.shields.io/badge/Project-Academic-blue?style=flat-square)
 ![UFM](https://img.shields.io/badge/Institution-UFM-green?style=flat-square)
